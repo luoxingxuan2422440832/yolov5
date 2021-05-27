@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [README](README.md)
+* [Model Zoo](models.md)
+* [README](data.md)
+* [README](experiments.md)
 
